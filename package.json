@@ -1,0 +1,26 @@
+{
+  "name": "rau-stock-market-tracker-2",
+  "version": "1.0.0",
+  "description": "An npm package to track the price of stock in Dollar as well as in Rupee.",
+  "main": "index.js",
+  "type": "module",
+  "scripts": {
+    "test": "npm run test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/raushan498/rau-stock-market-tracker-2.git"
+  },
+  "keywords": [
+    "npm"
+  ],
+  "author": "Raushan Kumar",
+  "license": "Apache-2.0",
+  "bugs": {
+    "url": "https://github.com/raushan498/rau-stock-market-tracker-2/issues"
+  },
+  "homepage": "https://github.com/raushan498/rau-stock-market-tracker-2#readme",
+  "dependencies": {
+    "raus-currency-converter": "^1.0.0"
+  }
+}
